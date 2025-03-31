@@ -7,6 +7,8 @@ Natural language-powered file assistant with a sleek GUI.
 - Interactive UI
 - Desktop file scanning with fuzzy matching
 
+ps: Only works for folders and files in Desktop (for now!)
+
 ## Run
 ```bash
 pip install -r requirements.txt
