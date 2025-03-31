@@ -1,0 +1,6 @@
+openai
+PyQt5
+rapidfuzz
+faster-whisper
+scipy
+sounddevice
